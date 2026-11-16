@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid23204",
+  "B": "/home/dev/feedback/uid23204",
+  "sha": "b07722bdeecc96bab510018b41101c7b72aef89b",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "libyal",
+    "repo": "libfsapfs",
+    "sha": "b07722bdeecc96bab510018b41101c7b72aef89b"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "libfsapfs",
+    "cloneUrl": "https://github.com/Rrr119/libfsapfs.git"
+  },
+  "at": "2026-11-16T16:30:22.672Z"
+}
